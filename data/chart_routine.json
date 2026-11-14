@@ -1,0 +1,133 @@
+[
+ {
+  "key": "breakfast",
+  "label": "Breakfast",
+  "icon": "free_breakfast",
+  "times": [
+   "08:00"
+  ],
+  "ask": "meal"
+ },
+ {
+  "key": "morningtea",
+  "label": "Morning tea",
+  "icon": "coffee",
+  "times": [
+   "10:00"
+  ],
+  "ask": "fluid"
+ },
+ {
+  "key": "lunch",
+  "label": "Lunch",
+  "icon": "lunch_dining",
+  "times": [
+   "12:30"
+  ],
+  "ask": "meal"
+ },
+ {
+  "key": "afttea",
+  "label": "Afternoon tea",
+  "icon": "emoji_food_beverage",
+  "times": [
+   "15:00"
+  ],
+  "ask": "fluid"
+ },
+ {
+  "key": "tea",
+  "label": "Tea (meal)",
+  "icon": "dinner_dining",
+  "times": [
+   "17:00"
+  ],
+  "ask": "meal"
+ },
+ {
+  "key": "water",
+  "label": "Water",
+  "icon": "water_drop",
+  "times": [
+   "17:15"
+  ],
+  "ask": "fluid"
+ },
+ {
+  "key": "drink",
+  "label": "Evening drink",
+  "icon": "local_cafe",
+  "times": [
+   "19:00"
+  ],
+  "ask": "fluid"
+ },
+ {
+  "key": "toilet",
+  "label": "Toilet help",
+  "icon": "wc",
+  "times": [
+   "08:15",
+   "14:00",
+   "20:15"
+  ],
+  "ask": ""
+ },
+ {
+  "key": "wash",
+  "label": "Shower or wash",
+  "icon": "shower",
+  "times": [
+   "09:00"
+  ],
+  "ask": ""
+ },
+ {
+  "key": "mouth",
+  "label": "Mouth care",
+  "icon": "brush",
+  "times": [
+   "08:30",
+   "21:30"
+  ],
+  "ask": ""
+ },
+ {
+  "key": "pain",
+  "label": "Pain check",
+  "icon": "healing",
+  "times": [
+   "10:30",
+   "20:00"
+  ],
+  "ask": "pain"
+ },
+ {
+  "key": "skin",
+  "label": "Skin check",
+  "icon": "visibility",
+  "times": [
+   "09:30"
+  ],
+  "ask": ""
+ },
+ {
+  "key": "bed",
+  "label": "Into bed",
+  "icon": "bed",
+  "times": [
+   "21:30"
+  ],
+  "ask": ""
+ },
+ {
+  "key": "night",
+  "label": "Night check",
+  "icon": "bedtime",
+  "times": [
+   "23:00",
+   "04:00"
+  ],
+  "ask": ""
+ }
+]

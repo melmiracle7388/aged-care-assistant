@@ -1,0 +1,254 @@
+[
+ {
+  "topic": "Falls",
+  "q": "You find a resident on the floor and you think they may be hurt. What should you do first?",
+  "options": [
+   "Help them back to bed straight away",
+   "Stay with them, call for help and press the emergency bell",
+   "Go and find a wheelchair",
+   "Write the incident report first"
+  ],
+  "answer": 1,
+  "why": "Stay with the resident, call for help and press the emergency bell. Do not move them if you suspect an injury.",
+  "source": "POL-001 Falls Prevention and Response, section 4",
+  "id": "T01"
+ },
+ {
+  "topic": "Falls",
+  "q": "Who decides when a resident who has fallen can be helped up?",
+  "options": [
+   "Any care worker who is trained",
+   "The resident",
+   "The Registered Nurse (RN) in charge, after assessing",
+   "The family"
+  ],
+  "answer": 2,
+  "why": "The RN assesses the resident before they are moved. Staff may only help them up after the RN says it is safe.",
+  "source": "POL-001 Falls Prevention and Response, section 4",
+  "id": "T02"
+ },
+ {
+  "topic": "Falls",
+  "q": "When must the incident report for a fall be completed?",
+  "options": [
+   "Before the end of the shift",
+   "Within a week",
+   "Only if the resident is hurt",
+   "Whenever the RN asks for it"
+  ],
+  "answer": 0,
+  "why": "Complete the incident report before the end of the shift (see POL-004).",
+  "source": "POL-001 Falls Prevention and Response, section 5",
+  "id": "T03"
+ },
+ {
+  "topic": "Safe transfers",
+  "q": "How many trained staff does a full hoist transfer need?",
+  "options": [
+   "1",
+   "2",
+   "3",
+   "It depends on how heavy the resident is"
+  ],
+  "answer": 1,
+  "why": "A full hoist always needs 2 trained staff.",
+  "source": "POL-002 Manual Handling and Safe Transfers, section 3",
+  "id": "T04"
+ },
+ {
+  "topic": "Safe transfers",
+  "q": "You think a resident's ability to move has changed since the care plan was written. What do you do?",
+  "options": [
+   "Use the method you think is best",
+   "Use the method from the care plan anyway and say nothing",
+   "Stop and tell the RN",
+   "Ask a family member"
+  ],
+  "answer": 2,
+  "why": "Never use a different method from the care plan. Stop and tell the RN.",
+  "source": "POL-002 Manual Handling and Safe Transfers, section 2",
+  "id": "T05"
+ },
+ {
+  "topic": "Safe transfers",
+  "q": "Which of these must you never do?",
+  "options": [
+   "Explain to the resident what you are about to do",
+   "Check the brakes are on",
+   "Pull a resident up by their arms",
+   "Use the sling listed in the care plan"
+  ],
+  "answer": 2,
+  "why": "Never lift a resident manually by yourself, and never pull a resident by their arms.",
+  "source": "POL-002 Manual Handling and Safe Transfers, section 5",
+  "id": "T06"
+ },
+ {
+  "topic": "Infection control",
+  "q": "When should you clean your hands?",
+  "options": [
+   "Only when they look dirty",
+   "Before and after contact with a resident, before handling food, after toileting care and after removing gloves",
+   "Only at the start of a shift",
+   "Only after using the toilet"
+  ],
+  "answer": 1,
+  "why": "Clean your hands before and after resident contact, before handling food, after toileting care and after removing gloves.",
+  "source": "POL-003 Infection Prevention and Control, section 2",
+  "id": "T07"
+ },
+ {
+  "topic": "Infection control",
+  "q": "You have had diarrhoea this morning and you are rostered to work. What should you do?",
+  "options": [
+   "Come to work and wear a mask",
+   "Come to work but avoid the kitchen",
+   "Do not come in. Tell your manager or the agency before the shift",
+   "Come in and tell the RN when you arrive"
+  ],
+  "answer": 2,
+  "why": "Do not come to work with vomiting, diarrhoea or fever. Tell your manager or the agency before the shift.",
+  "source": "POL-003 Infection Prevention and Control, section 4",
+  "id": "T08"
+ },
+ {
+  "topic": "Infection control",
+  "q": "Two residents have similar vomiting symptoms. What should you do?",
+  "options": [
+   "Wait and see for a day",
+   "Tell the RN in charge immediately",
+   "Write it in the notes only",
+   "Move both residents to the dining room"
+  ],
+  "answer": 1,
+  "why": "If 2 or more residents have similar symptoms, tell the RN in charge immediately.",
+  "source": "POL-003 Infection Prevention and Control, section 5",
+  "id": "T09"
+ },
+ {
+  "topic": "Incident reports",
+  "q": "Which of these counts as an incident that needs a report?",
+  "options": [
+   "A near-fall",
+   "A resident enjoying lunch",
+   "A visitor arriving late",
+   "A resident choosing a different TV show"
+  ],
+  "answer": 0,
+  "why": "Falls, near-falls and injuries count as incidents.",
+  "source": "POL-004 Incident Reporting, section 2",
+  "id": "T10"
+ },
+ {
+  "topic": "Incident reports",
+  "q": "What should you write in an incident report?",
+  "options": [
+   "What you think went wrong and who is to blame",
+   "Only the facts: what you saw, what time, what action was taken",
+   "As little as possible",
+   "Your opinion about the resident"
+  ],
+  "answer": 1,
+  "why": "Write only the facts. Do not guess or blame.",
+  "source": "POL-004 Incident Reporting, section 3",
+  "id": "T11"
+ },
+ {
+  "topic": "Incident reports",
+  "q": "You are an agency worker and your shift is ending after an incident. What must you do?",
+  "options": [
+   "Complete the incident report and hand over verbally to the RN before leaving",
+   "Leave it for the next shift",
+   "Send the agency a message",
+   "Tell the resident's family"
+  ],
+  "answer": 0,
+  "why": "Agency staff must also complete the incident report and hand over verbally to the RN before leaving.",
+  "source": "POL-004 Incident Reporting, section 5",
+  "id": "T12"
+ },
+ {
+  "topic": "Diets and choking",
+  "q": "What should you check before serving a meal or drink?",
+  "options": [
+   "The weather",
+   "The resident's name, texture level and allergies on the care plan or dining list",
+   "Only the allergies",
+   "Nothing if you served them yesterday"
+  ],
+  "answer": 1,
+  "why": "Check the resident's name, texture level and allergies on the care plan or dining list.",
+  "source": "POL-005 Texture-Modified Diets, Thickened Fluids and Choking, section 3",
+  "id": "T13"
+ },
+ {
+  "topic": "Diets and choking",
+  "q": "How long should a resident stay sitting upright after a meal?",
+  "options": [
+   "5 minutes",
+   "10 minutes",
+   "30 minutes",
+   "No need"
+  ],
+  "answer": 2,
+  "why": "Sit the resident upright, at 90 degrees, for meals and for 30 minutes afterwards.",
+  "source": "POL-005 Texture-Modified Diets, Thickened Fluids and Choking, section 3",
+  "id": "T14"
+ },
+ {
+  "topic": "Diets and choking",
+  "q": "A resident is choking but can still cough. What should you do?",
+  "options": [
+   "Give them water",
+   "Encourage them to keep coughing and press the emergency bell",
+   "Slap them hard on the back at once",
+   "Leave to find the RN"
+  ],
+  "answer": 1,
+  "why": "Call for help, press the emergency bell and, if they can cough, encourage them to keep coughing.",
+  "source": "POL-005 Texture-Modified Diets, Thickened Fluids and Choking, section 5",
+  "id": "T15"
+ },
+ {
+  "topic": "Reporting changes",
+  "q": "Which of these must you tell the RN straight away?",
+  "options": [
+   "A resident is eating or drinking much less than normal",
+   "A resident likes their new cardigan",
+   "A resident asked for the radio to be turned up",
+   "A resident went for a walk"
+  ],
+  "answer": 0,
+  "why": "Eating or drinking much less than normal is a change to report straight away.",
+  "source": "POL-006 Reporting Changes in a Resident's Condition, section 3",
+  "id": "T16"
+ },
+ {
+  "topic": "Reporting changes",
+  "q": "What is the role of care staff when a resident's condition changes?",
+  "options": [
+   "Diagnose the problem",
+   "Notice and report. The RN assesses and decides",
+   "Change the care plan",
+   "Wait until the next shift"
+  ],
+  "answer": 1,
+  "why": "Care staff do not diagnose. They notice and report. The RN assesses and decides what happens next.",
+  "source": "POL-006 Reporting Changes in a Resident's Condition, section 2",
+  "id": "T17"
+ },
+ {
+  "topic": "Reporting changes",
+  "q": "After you tell the RN about a change, what else must you do before the end of your shift?",
+  "options": [
+   "Nothing",
+   "Write it in the progress notes",
+   "Phone the family",
+   "Move the resident to another room"
+  ],
+  "answer": 1,
+  "why": "Tell the RN what you saw, when and what is different from normal, then write it in the progress notes before the end of your shift.",
+  "source": "POL-006 Reporting Changes in a Resident's Condition, section 4",
+  "id": "T18"
+ }
+]

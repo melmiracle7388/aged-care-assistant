@@ -1,0 +1,228 @@
+{
+ "R001": [
+  {
+   "id": "R001-meal",
+   "text": "Set up the meal and mix her food.",
+   "when": {
+    "meals": [
+     "breakfast",
+     "lunch",
+     "tea"
+    ]
+   },
+   "source": "R001 Margaret Ellis, Food and fluids"
+  },
+  {
+   "id": "R001-bed",
+   "text": "Offer the toilet before bed. Night light on, walker beside the bed, call bell in reach.",
+   "when": {
+    "times": [
+     "20:30"
+    ]
+   },
+   "source": "R001 Margaret Ellis, Falls and mobility"
+  },
+  {
+   "id": "R001-night",
+   "text": "Night round: offer the toilet and check the call bell is in reach.",
+   "when": {
+    "times": [
+     "02:00"
+    ]
+   },
+   "source": "R001 Margaret Ellis, Falls and mobility"
+  }
+ ],
+ "R002": [
+  {
+   "id": "R002-meal",
+   "text": "Full help with the meal. Small spoonfuls. Check the mouth is empty.",
+   "when": {
+    "meals": [
+     "breakfast",
+     "lunch",
+     "tea"
+    ]
+   },
+   "source": "R002 Harold Brennan, Food and fluids"
+  },
+  {
+   "id": "R002-bed",
+   "text": "Check the sensor mat is on. Check bed rails as per the care plan.",
+   "when": {
+    "times": [
+     "20:30"
+    ]
+   },
+   "source": "R002 Harold Brennan, Falls and mobility"
+  }
+ ],
+ "R003": [
+  {
+   "id": "R003-meal",
+   "text": "Check the meal is peanut-free. Help open packets and containers.",
+   "when": {
+    "meals": [
+     "breakfast",
+     "lunch",
+     "tea"
+    ]
+   },
+   "source": "R003 Dorothy Nguyen, Food and fluids"
+  }
+ ],
+ "R004": [
+  {
+   "id": "R004-aids",
+   "text": "Check both hearing aids are in.",
+   "when": {
+    "times": [
+     "07:30"
+    ]
+   },
+   "source": "R004 George Papadakis, Medical"
+  },
+  {
+   "id": "R004-toilet",
+   "text": "Offer the toilet after the meal.",
+   "when": {
+    "after_meals": true
+   },
+   "source": "R004 George Papadakis, Medical"
+  }
+ ],
+ "R005": [
+  {
+   "id": "R005-meal",
+   "text": "Supervise the meal. Sit fully upright. Small sips. Watch for coughing or a wet voice.",
+   "when": {
+    "meals": [
+     "breakfast",
+     "lunch",
+     "tea"
+    ]
+   },
+   "source": "R005 Eileen Murray, Food and fluids"
+  },
+  {
+   "id": "R005-upright",
+   "text": "Keep her upright for 30 minutes after the meal.",
+   "when": {
+    "after_meals": true
+   },
+   "source": "R005 Eileen Murray, Food and fluids"
+  },
+  {
+   "id": "R005-bed",
+   "text": "Check the sensor mat is on.",
+   "when": {
+    "times": [
+     "20:30"
+    ]
+   },
+   "source": "R005 Eileen Murray, Falls and mobility"
+  }
+ ],
+ "R006": [
+  {
+   "id": "R006-meal",
+   "text": "Set up and cut his food. Check it is lactose-free.",
+   "when": {
+    "meals": [
+     "breakfast",
+     "lunch",
+     "tea"
+    ]
+   },
+   "source": "R006 Walter Kowalski, Food and fluids"
+  }
+ ],
+ "R007": [
+  {
+   "id": "R007-menu",
+   "text": "Give a large-print menu. Carbohydrate-controlled meal.",
+   "when": {
+    "meals": [
+     "breakfast",
+     "lunch",
+     "tea"
+    ]
+   },
+   "source": "R007 Ruth Abernathy, Food and fluids"
+  }
+ ],
+ "R008": [
+  {
+   "id": "R008-meal",
+   "text": "Prompt and supervise the meal. Soft and bite-sized (Level 6), slightly thick fluids (Level 1).",
+   "when": {
+    "meals": [
+     "breakfast",
+     "lunch",
+     "tea"
+    ]
+   },
+   "source": "R008 Frank Delaney, Food and fluids"
+  }
+ ],
+ "R009": [
+  {
+   "id": "R009-meal",
+   "text": "Check the meal is vegetarian.",
+   "when": {
+    "meals": [
+     "breakfast",
+     "lunch",
+     "tea"
+    ]
+   },
+   "source": "R009 Priya Venkatesan, Food and fluids"
+  }
+ ],
+ "R010": [
+  {
+   "id": "R010-reposition",
+   "text": "Reposition. Check heels and lower back. Look for signs of pain.",
+   "when": {
+    "every": {
+     "hours": 2,
+     "from": "06:00",
+     "to": "22:00"
+    }
+   },
+   "source": "R010 Colin Whitfield, Falls and mobility"
+  },
+  {
+   "id": "R010-aid",
+   "text": "Check the hearing aid battery (right ear).",
+   "when": {
+    "times": [
+     "07:30"
+    ]
+   },
+   "source": "R010 Colin Whitfield, Medical"
+  },
+  {
+   "id": "R010-meal",
+   "text": "Full feeding help. Sit upright. Slow, small spoonfuls. Check the mouth is empty before the next one.",
+   "when": {
+    "meals": [
+     "breakfast",
+     "lunch",
+     "tea"
+    ]
+   },
+   "source": "R010 Colin Whitfield, Food and fluids"
+  },
+  {
+   "id": "R010-bed",
+   "text": "Check the bed is low and the sensor mat is on.",
+   "when": {
+    "times": [
+     "20:30"
+    ]
+   },
+   "source": "R010 Colin Whitfield, Falls and mobility"
+  }
+ ]
+}

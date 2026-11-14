@@ -1,0 +1,12 @@
+[
+  {"id":"R010","name":"Colin Whitfield","room":"2","age":90,"falls":"Low","look":{"bg":"#C9D8E8","skin":"#E8C4A0","hair":"#E9E9E9","cloth":"#5B7C99","long":false}},
+  {"id":"R001","name":"Margaret Ellis","room":"3","age":84,"falls":"High","look":{"bg":"#EBCDB8","skin":"#F1CFB1","hair":"#D8D8D8","cloth":"#8C5A6B","long":true}},
+  {"id":"R005","name":"Eileen Murray","room":"4","age":91,"falls":"High","look":{"bg":"#D9CCEB","skin":"#EFD0B6","hair":"#F2F2F2","cloth":"#6A5B8C","long":true}},
+  {"id":"R008","name":"Frank Delaney","room":"6","age":87,"falls":"High","look":{"bg":"#CFE3C6","skin":"#E3B993","hair":"#BDBDBD","cloth":"#4F7A4A","long":false}},
+  {"id":"R002","name":"Harold Brennan","room":"7","age":89,"falls":"Low","look":{"bg":"#E8DDB5","skin":"#E6C3A2","hair":"#CFCFCF","cloth":"#7A6A3A","long":false}},
+  {"id":"R006","name":"Walter Kowalski","room":"9","age":82,"falls":"Medium","look":{"bg":"#BFE0DA","skin":"#EDC7A5","hair":"#A8A8A8","cloth":"#3F6F6A","long":false}},
+  {"id":"R003","name":"Dorothy Nguyen","room":"12","age":78,"falls":"Medium","look":{"bg":"#F0CBD2","skin":"#E8C29A","hair":"#5A5A5A","cloth":"#A04F63","long":true}},
+  {"id":"R004","name":"George Papadakis","room":"15","age":86,"falls":"High","look":{"bg":"#CFD3EE","skin":"#D9A87C","hair":"#E0E0E0","cloth":"#4A4F8C","long":false}},
+  {"id":"R007","name":"Ruth Abernathy","room":"18","age":80,"falls":"Low","look":{"bg":"#E6D2BE","skin":"#F2D3B8","hair":"#CFCFCF","cloth":"#8A6A3F","long":true}},
+  {"id":"R009","name":"Priya Venkatesan","room":"20","age":76,"falls":"Medium","look":{"bg":"#D3E6BC","skin":"#C98E63","hair":"#3B3B3B","cloth":"#5C8A3A","long":true}}
+]

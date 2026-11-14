@@ -1,0 +1,559 @@
+[
+ {
+  "name": "Food and fluids",
+  "icon": "restaurant",
+  "tiles": [
+   {
+    "id": "breakfast",
+    "label": "Breakfast",
+    "icon": "free_breakfast",
+    "text": "Had breakfast."
+   },
+   {
+    "id": "lunch",
+    "label": "Lunch",
+    "icon": "lunch_dining",
+    "text": "Had lunch."
+   },
+   {
+    "id": "evening_meal",
+    "label": "Evening meal",
+    "icon": "dinner_dining",
+    "text": "Had the evening meal."
+   },
+   {
+    "id": "hot_drink",
+    "label": "Hot drink",
+    "icon": "coffee",
+    "text": "Had a hot drink."
+   },
+   {
+    "id": "cold_drink",
+    "label": "Cold drink",
+    "icon": "water_drop",
+    "text": "Had a cold drink."
+   },
+   {
+    "id": "snack",
+    "label": "Snack",
+    "icon": "cookie",
+    "text": "Had a snack."
+   },
+   {
+    "id": "thickened",
+    "label": "Thickened drink",
+    "icon": "local_drink",
+    "text": "Had a thickened drink."
+   },
+   {
+    "id": "fed",
+    "label": "Needed feeding help",
+    "icon": "restaurant_menu",
+    "text": "Needed full feeding help."
+   },
+   {
+    "id": "refused_food",
+    "label": "Refused food",
+    "icon": "no_meals",
+    "text": "Refused the meal.",
+    "level": "check"
+   },
+   {
+    "id": "refused_drink",
+    "label": "Refused drinks",
+    "icon": "water_drop",
+    "text": "Refused the drink.",
+    "level": "check"
+   },
+   {
+    "id": "coughing",
+    "label": "Coughed with food or drink",
+    "icon": "sick",
+    "text": "Coughed while eating or drinking.",
+    "level": "check"
+   },
+   {
+    "id": "weighed",
+    "label": "Weighed",
+    "icon": "monitor_weight",
+    "text": "Weighed."
+   }
+  ]
+ },
+ {
+  "name": "Toileting",
+  "icon": "wc",
+  "tiles": [
+   {
+    "id": "toilet_help",
+    "label": "Toilet help",
+    "icon": "wc",
+    "text": "Helped to the toilet."
+   },
+   {
+    "id": "commode",
+    "label": "Commode",
+    "icon": "chair",
+    "text": "Used the commode."
+   },
+   {
+    "id": "bedpan",
+    "label": "Bed pan",
+    "icon": "bed",
+    "text": "Used the bed pan."
+   },
+   {
+    "id": "pad_check",
+    "label": "Pad check",
+    "icon": "checklist",
+    "text": "Pad checked and changed."
+   },
+   {
+    "id": "urinated",
+    "label": "Passed urine",
+    "icon": "water_drop",
+    "text": "Passed urine."
+   },
+   {
+    "id": "bowels",
+    "label": "Bowels opened",
+    "icon": "check_circle",
+    "text": "Bowels opened."
+   },
+   {
+    "id": "loose_bowels",
+    "label": "Loose bowels",
+    "icon": "warning",
+    "text": "Had loose bowels.",
+    "level": "check"
+   },
+   {
+    "id": "wet_clothes",
+    "label": "Wet clothes",
+    "icon": "dry_cleaning",
+    "text": "Clothes were wet and changed."
+   },
+   {
+    "id": "soiled_clothes",
+    "label": "Soiled clothes",
+    "icon": "local_laundry_service",
+    "text": "Clothes were soiled and changed."
+   }
+  ]
+ },
+ {
+  "name": "Mobility",
+  "icon": "accessible",
+  "tiles": [
+   {
+    "id": "onto_chair",
+    "label": "Onto chair",
+    "icon": "chair_alt",
+    "text": "Helped into the chair."
+   },
+   {
+    "id": "up_from_chair",
+    "label": "Up from chair",
+    "icon": "event_seat",
+    "text": "Helped up from the chair."
+   },
+   {
+    "id": "into_bed",
+    "label": "Into bed",
+    "icon": "bed",
+    "text": "Helped into bed and settled."
+   },
+   {
+    "id": "out_of_bed",
+    "label": "Out of bed",
+    "icon": "hotel",
+    "text": "Helped out of bed."
+   },
+   {
+    "id": "hoist",
+    "label": "Hoist, 2 staff",
+    "icon": "elevator",
+    "text": "Moved with the hoist by two staff."
+   },
+   {
+    "id": "walk",
+    "label": "Walked with help",
+    "icon": "directions_walk",
+    "text": "Walked with help."
+   },
+   {
+    "id": "reposition",
+    "label": "Reposition",
+    "icon": "sync",
+    "text": "Repositioned."
+   },
+   {
+    "id": "legs_up",
+    "label": "Legs raised",
+    "icon": "airline_seat_legroom_extra",
+    "text": "Legs raised."
+   },
+   {
+    "id": "fall",
+    "label": "Fall",
+    "icon": "personal_injury",
+    "text": "Had a fall.",
+    "level": "urgent",
+    "kind": "fall"
+   },
+   {
+    "id": "near_fall",
+    "label": "Near fall",
+    "icon": "warning",
+    "text": "Had a near fall.",
+    "level": "check"
+   }
+  ]
+ },
+ {
+  "name": "Personal care",
+  "icon": "shower",
+  "tiles": [
+   {
+    "id": "shower",
+    "label": "Shower",
+    "icon": "shower",
+    "text": "Had a shower."
+   },
+   {
+    "id": "wash",
+    "label": "Wash in bed",
+    "icon": "clean_hands",
+    "text": "Had a wash."
+   },
+   {
+    "id": "mouth_care",
+    "label": "Mouth care",
+    "icon": "dentistry",
+    "text": "Mouth care done."
+   },
+   {
+    "id": "dressed",
+    "label": "Dressed",
+    "icon": "checkroom",
+    "text": "Helped to dress."
+   },
+   {
+    "id": "hair_nails",
+    "label": "Hair or nails",
+    "icon": "content_cut",
+    "text": "Hair or nail care done."
+   },
+   {
+    "id": "shave",
+    "label": "Shave",
+    "icon": "face",
+    "text": "Shaved."
+   },
+   {
+    "id": "refused_care",
+    "label": "Refused care",
+    "icon": "block",
+    "text": "Refused the shower or wash.",
+    "level": "check"
+   },
+   {
+    "id": "skin_check",
+    "label": "Skin check",
+    "icon": "visibility",
+    "text": "Skin checked."
+   },
+   {
+    "id": "skin_concern",
+    "label": "Skin red or broken",
+    "icon": "healing",
+    "text": "Has a red area on the skin or the skin is broken.",
+    "level": "check"
+   }
+  ]
+ },
+ {
+  "name": "Medical",
+  "icon": "medical_services",
+  "tiles": [
+   {
+    "id": "medication",
+    "label": "Medication",
+    "icon": "medication",
+    "text": "Medication given by the nurse."
+   },
+   {
+    "id": "pain_check",
+    "label": "Pain check",
+    "icon": "sentiment_neutral",
+    "text": "Checked how comfortable they were."
+   },
+   {
+    "id": "pain_reported",
+    "label": "In pain",
+    "icon": "sentiment_dissatisfied",
+    "text": "Said they were in pain.",
+    "level": "check"
+   },
+   {
+    "id": "temp",
+    "label": "Temperature",
+    "icon": "thermostat",
+    "text": "Temperature taken."
+   },
+   {
+    "id": "bp",
+    "label": "Blood pressure",
+    "icon": "monitor_heart",
+    "text": "Blood pressure taken."
+   },
+   {
+    "id": "pulse",
+    "label": "Pulse",
+    "icon": "cardiology",
+    "text": "Pulse taken."
+   },
+   {
+    "id": "sugar",
+    "label": "Blood sugar",
+    "icon": "bloodtype",
+    "text": "Blood sugar checked."
+   },
+   {
+    "id": "wound",
+    "label": "Wound care",
+    "icon": "healing",
+    "text": "Wound care done."
+   },
+   {
+    "id": "doctor",
+    "label": "Doctor visit",
+    "icon": "stethoscope",
+    "text": "Doctor visit."
+   },
+   {
+    "id": "hospital",
+    "label": "Hospital",
+    "icon": "local_hospital",
+    "text": "Went to hospital.",
+    "level": "urgent",
+    "kind": "other"
+   },
+   {
+    "id": "choking",
+    "label": "Choking",
+    "icon": "emergency",
+    "text": "Was choking.",
+    "level": "urgent",
+    "kind": "choke"
+   },
+   {
+    "id": "dizzy",
+    "label": "Dizzy or unwell",
+    "icon": "sick",
+    "text": "Felt dizzy or unwell.",
+    "level": "check"
+   }
+  ]
+ },
+ {
+  "name": "Feelings",
+  "icon": "favorite",
+  "tiles": [
+   {
+    "id": "settled",
+    "label": "Calm and settled",
+    "icon": "sentiment_satisfied",
+    "text": "Calm and settled."
+   },
+   {
+    "id": "happy",
+    "label": "Happy",
+    "icon": "mood",
+    "text": "Happy."
+   },
+   {
+    "id": "agitated",
+    "label": "Agitated",
+    "icon": "mood_bad",
+    "text": "Was agitated.",
+    "level": "check"
+   },
+   {
+    "id": "confused",
+    "label": "Confused",
+    "icon": "psychology_alt",
+    "text": "Was confused.",
+    "level": "check"
+   },
+   {
+    "id": "upset",
+    "label": "Upset",
+    "icon": "sentiment_very_dissatisfied",
+    "text": "Was upset.",
+    "level": "check"
+   },
+   {
+    "id": "pacing",
+    "label": "Pacing or wandering",
+    "icon": "directions_run",
+    "text": "Was pacing or wandering.",
+    "level": "check"
+   },
+   {
+    "id": "asking_home",
+    "label": "Asking to go home",
+    "icon": "home",
+    "text": "Asked to go home.",
+    "level": "check"
+   },
+   {
+    "id": "emotional",
+    "label": "Emotional support given",
+    "icon": "volunteer_activism",
+    "text": "Emotional support given."
+   }
+  ]
+ },
+ {
+  "name": "Sleep",
+  "icon": "bedtime",
+  "tiles": [
+   {
+    "id": "asleep",
+    "label": "Asleep",
+    "icon": "bedtime",
+    "text": "Asleep when checked."
+   },
+   {
+    "id": "awake",
+    "label": "Awake",
+    "icon": "visibility",
+    "text": "Awake when checked."
+   },
+   {
+    "id": "disturbed",
+    "label": "Disturbed sleep",
+    "icon": "bedtime_off",
+    "text": "Sleep was disturbed.",
+    "level": "check"
+   },
+   {
+    "id": "stay_bed",
+    "label": "Stayed in bed",
+    "icon": "hotel",
+    "text": "Stayed in bed."
+   },
+   {
+    "id": "night_check",
+    "label": "Night check",
+    "icon": "nightlight",
+    "text": "Night check done."
+   }
+  ]
+ },
+ {
+  "name": "Activities",
+  "icon": "sports_esports",
+  "tiles": [
+   {
+    "id": "music",
+    "label": "Music",
+    "icon": "music_note",
+    "text": "Listened to music."
+   },
+   {
+    "id": "tv",
+    "label": "TV or film",
+    "icon": "tv",
+    "text": "Watched TV or a film."
+   },
+   {
+    "id": "games",
+    "label": "Games or quiz",
+    "icon": "extension",
+    "text": "Played games or a quiz."
+   },
+   {
+    "id": "exercise",
+    "label": "Armchair exercise",
+    "icon": "fitness_center",
+    "text": "Did armchair exercises."
+   },
+   {
+    "id": "garden",
+    "label": "Garden or outing",
+    "icon": "park",
+    "text": "Went outside."
+   },
+   {
+    "id": "craft",
+    "label": "Arts and crafts",
+    "icon": "palette",
+    "text": "Did arts and crafts."
+   },
+   {
+    "id": "spiritual",
+    "label": "Spiritual",
+    "icon": "self_improvement",
+    "text": "Took part in a spiritual activity."
+   },
+   {
+    "id": "stayed_room",
+    "label": "Stayed in room",
+    "icon": "meeting_room",
+    "text": "Stayed in their room."
+   }
+  ]
+ },
+ {
+  "name": "Communication",
+  "icon": "forum",
+  "tiles": [
+   {
+    "id": "chat",
+    "label": "Chat",
+    "icon": "chat",
+    "text": "Had a chat."
+   },
+   {
+    "id": "visitor",
+    "label": "Visitor",
+    "icon": "group",
+    "text": "Had a visitor."
+   },
+   {
+    "id": "phone",
+    "label": "Phone call",
+    "icon": "call",
+    "text": "Had a phone call."
+   },
+   {
+    "id": "read_letter",
+    "label": "Read a letter",
+    "icon": "mail",
+    "text": "Helped to read a letter."
+   },
+   {
+    "id": "hearing_aid",
+    "label": "Hearing aid in",
+    "icon": "hearing",
+    "text": "Hearing aid checked and in."
+   },
+   {
+    "id": "missing_aid",
+    "label": "Hearing aid missing",
+    "icon": "hearing_disabled",
+    "text": "Hearing aid is missing.",
+    "level": "check"
+   },
+   {
+    "id": "cant_communicate",
+    "label": "Hard to understand",
+    "icon": "speaker_notes_off",
+    "text": "Hard to understand or be understood.",
+    "level": "check"
+   }
+  ]
+ }
+]
